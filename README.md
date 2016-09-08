@@ -87,7 +87,7 @@ example 引用列子：
 	
 效果图 ：-->
 
-| ![](https://github.com/qydq/awNightDay/blob/master/screenpic/README.md.gif)| 
+| ![](https://github.com/qydq/aw-RecyclerView/blob/master/screenpic/ezgif-1770885463.gif)| 
 
 ## 思路和步骤。
 
